@@ -4,6 +4,12 @@
 
 Stock price forecasting is a crucial task for investors, analysts, and businesses aiming to predict market movements. This project applies time series forecasting methods — ARIMA, SARIMA, Prophet, and LSTM deep learning models — to predict the closing prices of multiple companies like Amazon, Google, Netflix, Apple, and Microsoft.
 
+## 📓 Google Colab Notebook
+
+**You can run this project directly in Google Colab:**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19c7TxgRrfJIG6JHmvEgKmcOM47mSVEPi?usp=sharing)
+
 The project includes:
 
 **Data preprocessing:-**
