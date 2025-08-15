@@ -295,3 +295,4 @@ Put your Excel file in data/, or use the built-in sample generator.
 Run the script → follow the prompt → get plots and stock_analysis_report.txt.
 
 Tune models as needed; optional tools help with auto-tuning, signals, and TA plots.
+
